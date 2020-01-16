@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//first all tezeors must come than all ones must come
 int main(){
     int a[] = {1,0,1,0,1,1,0,0};
     int count = 0,i=0;
